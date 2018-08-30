@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jpa-Boostraping-1/Jpa-Boostraping-1.iml" filepath="$PROJECT_DIR$/Jpa-Boostraping-1/Jpa-Boostraping-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jpa-Boostraping-2/Jpa-Boostraping-2.iml" filepath="$PROJECT_DIR$/Jpa-Boostraping-2/Jpa-Boostraping-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Many to manyWithM2M AndM2MTable-lastDay Hiber/Many to manyWithM2M AndM2MTable-lastDay Hiber.iml" filepath="$PROJECT_DIR$/Many to manyWithM2M AndM2MTable-lastDay Hiber/Many to manyWithM2M AndM2MTable-lastDay Hiber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewEntity/NewEntity.iml" filepath="$PROJECT_DIR$/NewEntity/NewEntity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queries/Queries.iml" filepath="$PROJECT_DIR$/Queries/Queries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relationship/Relationship.iml" filepath="$PROJECT_DIR$/Relationship/Relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelationshipCascade/RelationshipCascade.iml" filepath="$PROJECT_DIR$/RelationshipCascade/RelationshipCascade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boostaping-2/boostaping-2.iml" filepath="$PROJECT_DIR$/boostaping-2/boostaping-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boostrapping1/boostrapping1.iml" filepath="$PROJECT_DIR$/boostrapping1/boostrapping1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crud-demos/crud-demos.iml" filepath="$PROJECT_DIR$/crud-demos/crud-demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/misscellaneous/misscellaneous.iml" filepath="$PROJECT_DIR$/misscellaneous/misscellaneous.iml" />
+    </modules>
+  </component>
+</project>
